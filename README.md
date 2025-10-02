@@ -1,2 +1,4 @@
 # Python-1
-This repository contains my Python programs and assignments 
+This repository contains:
+- hello1.py (Hello World)
+- worldclock.py (live clocks)
